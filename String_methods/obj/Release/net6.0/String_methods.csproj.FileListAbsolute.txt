@@ -1,0 +1,5 @@
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\String_methods\String_methods\obj\Release\net6.0\String_methods.csproj.AssemblyReference.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\String_methods\String_methods\obj\Release\net6.0\String_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\String_methods\String_methods\obj\Release\net6.0\String_methods.AssemblyInfoInputs.cache
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\String_methods\String_methods\obj\Release\net6.0\String_methods.AssemblyInfo.cs
+C:\Users\Rufane-Aliyeva\Desktop\PROJECTS\String_methods\String_methods\obj\Release\net6.0\String_methods.csproj.CoreCompileInputs.cache
